@@ -15,7 +15,7 @@ Repositorio para compartir los retos y ejercicios hechos en clase del grupo P81 
 
 ![2](https://github.com/Juan-Motta/MisionTIC2022---P81/blob/main/img/22.PNG)
 
-4. Una vez copiado el codigo nos dirijimos a la parte inferior y colocamos en la primera caja una descripcion del archivo y siguiente le damos click en el boton verde **Propose new file**
+4. Una vez copiado el codigo nos dirigimos a la parte inferior y colocamos en la primera caja una descripcion del archivo y siguiente le damos click en el boton verde **Propose new file**
 
 ![3](https://github.com/Juan-Motta/MisionTIC2022---P81/blob/main/img/33.PNG)
 
