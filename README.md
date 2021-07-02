@@ -26,3 +26,13 @@ Repositorio para compartir los retos y ejercicios hechos en clase del grupo P81 
 6. Damos click de nuevo en el boton verde **Create pull request**
 
 ![5](https://github.com/Juan-Motta/MisionTIC2022---P81/blob/main/img/55.PNG)
+
+# Instrucciones para ver un archivo
+
+1. Acceder a la carpeta en donde se quiera guardar el archivo
+
+![6](https://github.com/Juan-Motta/MisionTIC2022---P81/blob/main/img/00.PNG)
+
+2. Seleccionar el archivo que se quiere visualizar
+
+![7](https://github.com/Juan-Motta/MisionTIC2022---P81/blob/main/img/66.PNG)
