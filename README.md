@@ -1,6 +1,12 @@
 # MisionTIC2022---P81
 Repositorio para compartir los retos y ejercicios hechos en clase del grupo P81 de MisionTIC2022 de la Universidad Nacional
 
+* <a href="https://github.com/Juan-Motta/MisionTIC2022---P81/tree/main/ejercicios">Ejercicios</a><br>
+* <a href="https://github.com/Juan-Motta/MisionTIC2022---P81/tree/main/retos/reto1">Reto 1</a><br>
+* <a href="https://github.com/Juan-Motta/MisionTIC2022---P81/tree/main/retos/reto2">Reto 2</a><br>
+* <a href="https://github.com/Juan-Motta/MisionTIC2022---P81/tree/main/retos/reto3">Reto 3</a><br>
+
+
 # Instrucciones para subir un archivo
 
 1. Acceder a la carpeta en donde se quiera guardar el archivo
