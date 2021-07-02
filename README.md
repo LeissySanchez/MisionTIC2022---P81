@@ -27,6 +27,11 @@ Repositorio para compartir los retos y ejercicios hechos en clase del grupo P81 
 
 ![5](https://github.com/Juan-Motta/MisionTIC2022---P81/blob/main/img/55.PNG)
 
+7. Una vez creado se pueden devolver a la carpeta principal clickeando en MisionTIC2022---P81
+
+![8](https://github.com/Juan-Motta/MisionTIC2022---P81/blob/main/img/88.PNG)
+
+
 # Instrucciones para ver un archivo
 
 1. Acceder a la carpeta en donde se quiera guardar el archivo
