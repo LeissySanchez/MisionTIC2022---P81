@@ -1,0 +1,28 @@
+# Creado por Leissy Sanchez
+
+Junior = input()
+Katherine = input()
+Pacientes = input()
+
+puntajej = 0
+puntajek = 0
+
+for n in Pacientes:
+  for a in Junior:
+    if a == n:
+     puntajej += 1
+     break
+
+  for x in Katherine:
+    if x == n:
+      puntajek += 1
+      break
+  
+  if puntajej > puntajek:
+    b=("J")
+  elif puntajej < puntajek:
+    b=("K")
+  else:
+    b=("L")
+  
+  print(b, end="")
